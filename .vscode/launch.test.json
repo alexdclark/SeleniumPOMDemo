@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "Junit-Selenium",
+                "projectName": "Junit-Selenium",
+                "workingDirectory": "c:\\Users\\clarkald\\Documents\\Projects\\EclipseWorkspace\\POMTest",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "Junit-Selenium",
+                "projectName": "Junit-Selenium",
+                "workingDirectory": "c:\\Users\\clarkald\\Documents\\Projects\\EclipseWorkspace\\POMTest",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
